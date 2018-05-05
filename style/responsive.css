@@ -1,0 +1,107 @@
+@media only screen and (max-width: 1249px) {
+
+	#wrapper{
+		height:auto;
+        overflow: none;
+	}
+	#brand{
+		width:100%;
+		text-align: center;
+	} 
+
+	#navigation{
+		height:auto;
+		background-color: #000;
+	}
+	#navigation nav{
+		float:none;
+		margin:0 auto;
+		width:90%;
+	}
+	#navigation nav ul{
+		float: none;
+		margin-top: 30px;
+		display: none;
+	}
+	#navigation nav ul li{
+		display: block;
+		float:none;
+	}
+	#navigation nav ul a{
+		width:100%;
+		display: block;
+		border-bottom: 1px solid #011330;
+		margin-right: 0;
+		float: none;
+		margin-bottom: 1px;
+		text-align: center;
+	}
+	.togglr,.homerd{
+		display: block;
+	}
+    ul li a{
+    	font-size: 20px;
+    }
+     .appwiz{
+     	width:70%;
+     	float:none;
+     	margin-left: 13%;
+     	height:230px;
+     }
+     .appwiz h3{
+     	font-size: 90%;
+
+     }
+     .appwiz p{
+     	font-size: 110%;
+     }
+     
+     #sidebar .box{
+     	float:left;
+     	width:25%;
+     	margin-left: 3%;
+     }
+     #footer{
+     	float: none;
+     	margin-bottom: 0;
+     	font-size: 80%;
+     }
+     #ask{
+     	width:100%;
+     	height:auto;
+     	padding: 4px;
+     	font-family: Arial;
+     	margin-left: 0;
+
+     }
+     #ask h3{
+     	font-size: 30px;
+     	text-align: center;
+
+     }
+     #ask p{
+     	font-size: 20px;
+     	text-align: justify;
+     	padding: 10px;
+     }
+     #photo{
+     	width:90%;
+     	height: 250px;
+     	margin-left:5%;
+     }
+     #photo img{
+     	margin-top: 0px;
+     }
+     table{
+	width: 70%;
+	height: auto;
+	margin: 0 auto;
+	font-size: 80%;
+     }
+     .photoss{
+          width:80%;
+          float:none;
+          height:500px;
+          margin-left: 8%
+     }
+}
